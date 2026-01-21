@@ -1,5 +1,3 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habelk123&layout=compact)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)
