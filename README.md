@@ -1,16 +1,13 @@
-## Hi there 👋
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habelk123&layout=compact)
 
-<!--
-**habelk123/habelk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![Keil Studio Cloud](https://img.shields.io/badge/Keil%20Studio%20Cloud-0091BD?style=for-the-badge&logo=arm)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
